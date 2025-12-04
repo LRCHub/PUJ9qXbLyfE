@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Damn Good Day",
+  "base_artist": "星街すいせい",
+  "createdAt": "2025-12-04T19:30:58.946177Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Damn Good Day",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": true,
+      "path": "select/01_Damn_Good_Day_Hoshimachi_Suisei.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Damn Good Day To Leave",
+      "artist": "Riley Green",
+      "has_synced": true,
+      "path": "select/02_Damn_Good_Day_To_Leave_Riley_Green.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Damn Good Day To Leave",
+      "artist": "Riley Green",
+      "has_synced": false,
+      "path": "select/03_Damn_Good_Day_To_Leave_Riley_Green.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Damn Good Day",
+      "artist": "星街すいせい",
+      "has_synced": false,
+      "path": "select/pl_01_Damn_Good_Day_星街すいせい.txt"
+    }
+  ]
+}
